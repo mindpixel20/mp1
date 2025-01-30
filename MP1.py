@@ -91,5 +91,4 @@ class mp1:
                 
 config = [[256,4],[64,4],[16,4], [4,4],[1,4]]
 m = mp1(config)
-m.load_from_file("GRZBL8.txt")
 m.shell()
